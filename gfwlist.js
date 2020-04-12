@@ -6,7 +6,7 @@ var proxy = "SOCKS5 127.0.0.1:1080; SOCKS 127.0.0.1:1080; DIRECT;";
 
 var rules = [
   ".lsxszzg.com",
-  "https://www.google.com/",
+  "|https:\/\/www.google.com\/",
   "|http:\/\/85.17.73.31\/",
   "||alien-ufos.com",
   "||altrec.com",
